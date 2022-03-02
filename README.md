@@ -4,7 +4,7 @@
 
 <details><summary><strong>Información</strong></summary><p>
 
-- 🇲🇽 Soy de **México**
+- Soy de **México**
 - Hablo inglés y español
 - Juego juegos casi siempre
 - Cumplo años el **14 de Diciembre**
@@ -17,7 +17,7 @@
 - A veces me pongo a hacer un bot de discord
 - He intentado hacer un juego de RenPy pero no soy tan bueno con las historias
 - Se que no se considera lenguaje de programación pero también se HTML
-- Puedes ver mi [página web](https://alphatroll14.ml) *(La hice para practicar CSS así que no es tan funcional)*
+- Puedes ver mi [página web](https://alphatroll.ml) *(Solo es para probar algunas cosas así que probablemente es la peor página que hayas visto)*
 
 </p></details>
 
